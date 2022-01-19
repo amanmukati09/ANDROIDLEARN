@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="horBut">Send</string>
+    <string name="horBut2">Receive</string>
+    <string name="VertBut1">Click</string>
+    <string name="VertBut2">Clone</string>
+    <string name="VertBut3">Vanish</string>
+
+</resources>
